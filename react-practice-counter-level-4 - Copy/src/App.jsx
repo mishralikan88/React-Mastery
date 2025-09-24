@@ -3,11 +3,11 @@
 import { useState, useEffect } from "react";
 
 function App() {
-  const [counter, setCounter] = useState(() => { // useState accepting a function here.
+  const [counter, setCounter] = useState(() => {
     const saved = localStorage.getItem("count");
-    return saved ? JSON.parse(saved) : 0;  // JSON.parse(saved) or Number(saved) -> This will return a number. counter is a number.
+    return saved ? JSON.parse(saved) : 0; // JSON.parse(saved) or Number(saved) -> This will return a number
   });
-
+  // counter is a number
 
   useEffect(() => {
     localStorage.setItem("count", counter);
