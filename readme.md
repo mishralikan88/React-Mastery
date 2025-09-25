@@ -14,7 +14,7 @@
 # 🟡 Intermediate → Async & Hooks (8)
 
 1. Build a debounced search bar (fetch GitHub users).
-2. Create an infinite scroll list with API pagination.
+2. Create an infinite scroll list with API pagination.(https://www.youtube.com/watch?v=NZKUirTtxcg)
 3. Implement a custom hook useFetch with loading/error states.
 4. Add a skeleton loader while fetching data.
 5. Cancel API request on unmount (AbortController).
