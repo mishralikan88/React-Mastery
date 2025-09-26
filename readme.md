@@ -2,7 +2,7 @@
 
 # 🟢 Beginner → Core React (8)
 
-1. Build a Counter app with useState & useEffect.
+1. Build a Counter app with useState & useEffect - Done
 2. Create a controlled form (name, email, password) with validation.
 3. Build a to-do list with add/remove/toggle complete.
 4. Show/hide a modal dialog using React Portal.
@@ -69,3 +69,10 @@
 10. Explain difference: Controlled vs Uncontrolled form with code.
 
 # Stretch each and every question. (1)
+
+
+
+# Interview practice platform - React
+
+https://namastedev.com/practice?search=&sortBy=default&language=reactJs&difficulty_level=All&status=All&companies=All&tags=All&page=1 
+
