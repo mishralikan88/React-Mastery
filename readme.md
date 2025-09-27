@@ -76,3 +76,7 @@
 
 https://namastedev.com/practice?search=&sortBy=default&language=reactJs&difficulty_level=All&status=All&companies=All&tags=All&page=1 
 
+
+1. progress bar
+2. Asterisk field validation
+
