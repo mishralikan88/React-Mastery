@@ -77,13 +77,18 @@
 https://namastedev.com/practice?search=&sortBy=default&language=reactJs&difficulty_level=All&status=All&companies=All&tags=All&page=1 
 
 
-Inprogress - (>>>>>>>)
+Inprogress - 9 pages (>>>>>>>)
 
 1st Page -
 
 1. progress bar
 2. Asterisk field validation
+3. Holy grail
+ 
 
 2nd Page - 
 
-1.
+1. User Profile
+2. Filter Recipies 
+3. Age Calculator
+4. Side bar
