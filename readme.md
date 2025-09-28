@@ -82,8 +82,7 @@ Inprogress - 9 pages (>>>>>>>)
 1st Page -
 
 1. progress bar
-2. Asterisk field validation
-3. Holy grail
+2. Holy grail
  
 
 2nd Page - 
