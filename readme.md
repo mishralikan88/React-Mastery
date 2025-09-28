@@ -77,17 +77,29 @@
 https://namastedev.com/practice?search=&sortBy=default&language=reactJs&difficulty_level=All&status=All&companies=All&tags=All&page=1 
 
 
-Inprogress - 9 pages (>>>>>>>)
+Inprogress - 9 pages
 
 1st Page -
 
-1. progress bar
-2. Holy grail
+1. Progress Bar
+2. Holy Grail
  
 
 2nd Page - 
 
 1. User Profile
-2. Filter Recipies 
-3. Age Calculator
-4. Side bar
+2. Filter recipies 
+3. Age calculator
+4. Side-bar
+
+
+3rd page - 
+
+1. Confirmation modal
+2. Get weekday 
+3. Authentication 
+4. Mortgage calculator
+5. Back to top 
+6. Dynamic greeting App (>>)
+7. Array to ZigZag String converter
+8. Leap year
